@@ -1,0 +1,8 @@
+name: inventory-heatmap-env
+channels:
+  - snowflake
+dependencies:
+  - python=3.10
+  - streamlit
+  - pandas
+  - snowflake-snowpark-python
